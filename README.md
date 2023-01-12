@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeylaY1996
+- 👋 Hi, I’m Leyla
 - 👀 I’m interested in Laravel,Vue js and React js
 - 🌱 I’m currently learning Symfony
 - 📫 How to reach me Linkedin Profile https://www.linkedin.com/in/leyla-yilmaz-279a4016a/
